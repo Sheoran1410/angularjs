@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  api_url: 'http://3.238.153.121:8000/api'
+  api_url: 'https://sheoran.squareops.co.in/api'
 };
